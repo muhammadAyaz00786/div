@@ -1,0 +1,23 @@
+body {
+    display: flex;;
+}
+
+.containar {
+    display: flex;
+    border: 5px;
+}
+
+.containar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containar{
+    display: flex;
+    width: 500;
+    height: 250;
+    border: 5px solid red;
+    
+}
+
+
